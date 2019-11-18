@@ -67,6 +67,7 @@ exclude_patterns = []
 
 pygments_style = 'sphinx'
 
+master_doc = 'index'
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'collapse_navigation': False,
