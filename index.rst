@@ -37,6 +37,14 @@ FizeMisc参考手册
 	:titlesonly:
 
 	manuals/license
+
+捐赠我们
+========
+
+.. toctree::
+	:titlesonly:
+
+	manuals/donation
 	
 类库参考
 ========
