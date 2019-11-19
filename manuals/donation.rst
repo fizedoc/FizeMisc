@@ -7,12 +7,12 @@ Fize 项目及其下所有子项目目前都为个人维护，坚持开源和免
 
 使用手机支付宝扫描进行捐赠
 
-.. image:: https://s2.ax1x.com/2019/11/19/MgVhDI.md.jpg
+.. image:: https://s2.ax1x.com/2019/11/19/MgeT1g.md.jpg
 
 
 使用手机微信扫描进行捐赠
 
-.. image:: https://s2.ax1x.com/2019/11/19/MgZDMj.md.jpg
+.. image:: https://s2.ax1x.com/2019/11/19/MgnOYV.md.jpg
 
 
 以下是捐赠明细(截止2019-11-19)：
