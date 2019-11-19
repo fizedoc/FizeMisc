@@ -30,7 +30,7 @@ FizeMisc参考手册
 
 	manuals/upgrade
 
-授权许可
+许可协议
 ========
 
 .. toctree::
